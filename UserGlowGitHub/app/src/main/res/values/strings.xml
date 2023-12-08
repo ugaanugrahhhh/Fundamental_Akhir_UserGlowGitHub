@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="searchbar_hint">Pencarian Pengguna</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="Setting">Setting</string>
+    <string name="dark_mode_button_description">dark mode\n</string>
+    <string name="dark_mode_button_text">dark</string>
+    <string name="settings">Setting\n</string>
+    <string name="favorite">Favorite\n</string>
+</resources>
